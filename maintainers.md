@@ -3,6 +3,7 @@
 * Alex Pickering (@alexvpickering)
 * Iva Babukova (@ivababukova)
 * Pol Alvarez Vecino (@kafkasl)
-* Anugerah Erlaut (@cosa65)
+* Martin Fosco (@cosa65)
+* Anugerah Erlaut (@aerlaut)
 * Germán Beldorati Stark (@gerbeldo)
 * Sara Castellano (@saracastel)
